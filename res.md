@@ -613,7 +613,7 @@ Rimska vojska se je z reformami Gaja Marija preobrazila v najemniško vojsko. Ka
 
 Označite vojaka, ki je pripadnik pretorijanske garde, ter vojaka, ki je legionar.
 ## 11 (2.0)
-Rimska vojska je bila učinkovita, saj je slovela po strogi **[answer]**. Vojake so kaznovali na več načinov, na primer z daljšimi **[answer]** nalogepohodiurjenja. Lahko so jim zmanjšali **[answer]** ure počitkaobrokiure spanja. Zelo kruta kazen, ki je bila izvedena le v izrednih okoliščinah, na primer, da je enota zapustila bojišče, se latinsko imenuje **[answer]**.
+Rimska vojska je bila učinkovita, saj je slovela po strogi **disciplini**. Vojake so kaznovali na več načinov, na primer z daljšimi **pohodi**. Lahko so jim zmanjšali **obroki**. Zelo kruta kazen, ki je bila izvedena le v izrednih okoliščinah, na primer, da je enota zapustila bojišče, se latinsko imenuje **decimiranje**.
 ## 12 (1.0)
 <img src="assets/7a5759b2-1080-11ef-8fa2-3c7c3fee9c8adecimatio.jpg" alt="drawing" width="400"/>
 
