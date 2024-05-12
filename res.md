@@ -1,7 +1,7 @@
 # rim_kraljevina.html
 
 ## 1 (5.0)
-<img src="assets/0e6e2da6-107c-11ef-8f4f-3c7c3fee9c8arim_apenini_pred_rimljani.gif" alt="drawing" width="400"/>
+<img src="assets/763498c2-1080-11ef-8fa2-3c7c3fee9c8arim_apenini_pred_rimljani.gif" alt="drawing" width="400"/>
 
 Dokončna indoevropeizacija Apeninskega polotoka je bila izvedena v času železne dobe, Apeninski polotok, Sicilijo, Sardinijo in Korziko so poseljevala različna ljudstva, med njimi tudi italska plemena. Označite pet italskih plemen, ki so poseljevala območje sodobne Italije in Korzike.
 
@@ -15,7 +15,7 @@ Dokončna indoevropeizacija Apeninskega polotoka je bila izvedena v času želez
 
 - **Sikuli**
 ## 2 (1.0)
-<img src="assets/0e859446-107c-11ef-8f4f-3c7c3fee9c8arim_apenini_pred_rimljani.gif" alt="drawing" width="400"/>
+<img src="assets/764e3f20-1080-11ef-8fa2-3c7c3fee9c8arim_apenini_pred_rimljani.gif" alt="drawing" width="400"/>
 
 S pomočjo zemljevida različnim plemenom antične Italije dodelite območje poselitve.
 
@@ -43,7 +43,7 @@ Navedite skupno ime za območje grških kolonij na jugu Italije in Sicilije.
 
 **Velika Grčija**
 ## 5 (3.0)
-<img src="assets/0e9d5856-107c-11ef-8f4f-3c7c3fee9c8a1058.png" alt="drawing" width="400"/>
+<img src="assets/7665b1c8-1080-11ef-8fa2-3c7c3fee9c8a1058.png" alt="drawing" width="400"/>
 
 Označite šest kolonij na področju Velike Grčije.
 
@@ -59,13 +59,13 @@ Označite šest kolonij na področju Velike Grčije.
 
 - **Pestum**
 ## 6 (1.0)
-<img src="assets/0eb542ae-107c-11ef-8f4f-3c7c3fee9c8aprenos.jpg" alt="drawing" width="400"/>
+<img src="assets/767f5466-1080-11ef-8fa2-3c7c3fee9c8aprenos.jpg" alt="drawing" width="400"/>
 
 Poimenujte grškega antičnega znanstvenika iz Sirakuz, ki je ugotovil, da je teža potopljenega telesa za toliko manjša, kolikor je teža izpodrinjene tekočine.
 
 **Arhimed**
 ## 7 (2.0)
-<img src="assets/0ec8cfb8-107c-11ef-8f4f-3c7c3fee9c8a220px-Schema_Saeulenordnungen.jpg" alt="drawing" width="400"/>
+<img src="assets/7698cc66-1080-11ef-8fa2-3c7c3fee9c8a220px-Schema_Saeulenordnungen.jpg" alt="drawing" width="400"/>
 
 Na kulturni in politični razvoj Rima so močno vplivali Grki oziroma Etruščani.
 Navedite štiri elemente, ki so jih Rimljani prevzeli od Grkov.
@@ -78,18 +78,19 @@ Navedite štiri elemente, ki so jih Rimljani prevzeli od Grkov.
 
 - **pisava**
 ## 8 (5.0)
+<img src="assets/76b23282-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Izvor *Etruščani*, ki so poselili območje severne Italije (Etrurija), še ni popolnoma razjasnjen. Prva teorija govori, da so *Etruščani* staroselci  (Dionizij), druga teorija pa pravi, da so prišli
+Izvor **Etruščani**, ki so poselili območje severne Italije (Etrurija), še ni popolnoma razjasnjen. Prva teorija govori, da so **Etruščani** staroselci  (Dionizij), druga teorija pa pravi, da so prišli
 iz Male Azije (Herodot). Prvi teoriji v prid govore ostanki naselij, ki
-so tod obstajala že v *bronasta* dobi, drugo teorijo pa dokazujejo
-elementi kulture *Etruščani*, ki so sorodni tistim iz Male Azije. Središče *Etruščani* je bila pokrajina *Toskana*. Gospodarstvo je temeljilo na poljedelstvu, živinoreji,
+so tod obstajala že v **bronasta** dobi, drugo teorijo pa dokazujejo
+elementi kulture **Etruščani**, ki so sorodni tistim iz Male Azije. Središče **Etruščani** je bila pokrajina **Toskana**. Gospodarstvo je temeljilo na poljedelstvu, živinoreji,
 rudarstvu (železo, baker, kositer, zlato), trgovini in pomorstvu. Zaradi
- delitve dela so se pojavila mesta in podeželska naselja. Podobno kot v *Grčija* se je tudi tu razvilo večje število mest z okolico, ki so
+ delitve dela so se pojavila mesta in podeželska naselja. Podobno kot v **Grčija** se je tudi tu razvilo večje število mest z okolico, ki so
 delovala kot država v malem. Ta mesta so se občasno povezovala v zveze z
  vojaškimi cilji. Zaradi delitve dela in proizvajanja presežkov v gospodarstvu ter
-zbiranja vojnega plena, se je družba začela *razslojevanje*. Sprva so
-mestom poveljevali *kralj*, sčasoma pa se je okrepila aristokracija
-(plemstvo) ter na oblasti zamenjala *kralj*.
+zbiranja vojnega plena, se je družba začela **razslojevanje**. Sprva so
+mestom poveljevali **kralj**, sčasoma pa se je okrepila aristokracija
+(plemstvo) ter na oblasti zamenjala **kralj**.
 ## 9 (1.0)
 
 
@@ -115,25 +116,25 @@ Etruščanov.
 
 - **gradnja cest**
 ## 11 (1.0)
-<img src="assets/0eefad72-107c-11ef-8f4f-3c7c3fee9c8a6c.jpg" alt="drawing" width="400"/>
+<img src="assets/76c14e98-1080-11ef-8fa2-3c7c3fee9c8a6c.jpg" alt="drawing" width="400"/>
 
 Glede na slikovni vir označite element etruščanske kulture, ki so ga prevzeli Rimljani.
 
 - **nekropola**
 ## 12 (1.0)
-<img src="assets/0f11efea-107c-11ef-8f4f-3c7c3fee9c8a9b0b3b026d40e411768f0cfad4085616.png" alt="drawing" width="400"/>
+<img src="assets/76e19c66-1080-11ef-8fa2-3c7c3fee9c8a9b0b3b026d40e411768f0cfad4085616.png" alt="drawing" width="400"/>
 
 Na sliki je upodobljen sarkofag zakonskega para iz 6. st. pr. n. š., ki sta živela na področju Etrurije. Ali drži trditev, da je sarkofag materialni dokaz o enakopravnosti žensk v etruščanski družbi?
 
 **Drži**
 ## 13 (1.0)
-<img src="assets/0f34576a-107c-11ef-8f4f-3c7c3fee9c8asc40367-boston-mfa-cut-down.jpg" alt="drawing" width="400"/>
+<img src="assets/76ffddca-1080-11ef-8fa2-3c7c3fee9c8asc40367-boston-mfa-cut-down.jpg" alt="drawing" width="400"/>
 
 Večina znanstvenikov domneva, da etruščanski jezik ni indoevropski, zato se etruščanska besedila zelo težko berejo. V pomoč branju njihovih besedil je pisava, ki so jo Etruščani prevzeli od ________________.
 
 - **Grkov**
 ## 14 (5.0)
-<img src="assets/0f540786-107c-11ef-8f4f-3c7c3fee9c8aba41aeaf40cfb68d99c73f94115ec4fc.jpg" alt="drawing" width="400"/>
+<img src="assets/771fa178-1080-11ef-8fa2-3c7c3fee9c8aba41aeaf40cfb68d99c73f94115ec4fc.jpg" alt="drawing" width="400"/>
 
 Enako kot Grki tudi Etruščani niso nikoli izoblikovali enotne države, pač pa so živeli v mestnih državah, ki so jim sprva načelovali kralji. Simbole etruščanskih kraljev so kasneje prevzeli rimski cesarji. Katerih pet prepoznate?
 
@@ -147,7 +148,7 @@ Enako kot Grki tudi Etruščani niso nikoli izoblikovali enotne države, pač pa
 
 - **fasces**
 ## 15 (1.0)
-<img src="assets/0f72f3bc-107c-11ef-8f4f-3c7c3fee9c8a32838687c969e0583e8f58f64f537994.jpg" alt="drawing" width="400"/>
+<img src="assets/773d312a-1080-11ef-8fa2-3c7c3fee9c8a32838687c969e0583e8f58f64f537994.jpg" alt="drawing" width="400"/>
 
 Po legendi o nastanku Rima sta Rimljane ščitila dva božanska prednika. Označite božanstvi, ki sta bila prastarša rimskega ljudstva.
 
@@ -161,15 +162,17 @@ Navedite avtorja epa Eneida, v katerem je bil pojasnjen trojanski izvor rimskega
 
 **Vergilij**
 ## 17 (1.0)
-<img src="assets/0f944576-107c-11ef-8f4f-3c7c3fee9c8apompeo_batoni_-_aeneas_fleeing_from_troy_1753-e1525154413803.jpg" alt="drawing" width="400"/>
+<img src="assets/775df798-1080-11ef-8fa2-3c7c3fee9c8apompeo_batoni_-_aeneas_fleeing_from_troy_1753-e1525154413803.jpg" alt="drawing" width="400"/>
 
 Rimljani so verjeli, da so potomci iz Troje pobeglega princa Odgovor Vprašanje 17, katerega mati je bila Afrodita (Venera). Preživeli Trojanec se je ustalil v latinskem mestu Alba Longa.
 
 **Eneja**
 ## 18 (3.0)
+<img src="assets/7775a744-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 S pomočjo slikovnega gradiva rešite nalogo o ustanovitvi mesta Rim.Obstaja več legend o ustanovitvi mesta Rim, a v cesarskem obdobju se je uveljavilo delo **Eneida**, ki je začetke Rima pojasnilo z uničenjem mesta **Troja**. Ključen dogodek za ustanovitev mesta Rim je srečanje Reje Silvije, ki je bila **vestalka** - torej svečenica, ki je morala skrbeti za ognjišče v templju, in boga **Mars**. Iz te zveze sta se rodila dvojčka Romul in Rem, ki sta bila ob rojstvu izpostavljena na reki **Tibera**, rešila pa ju je volkulja. Dvojčka sta odraščala med pastirji, kasneje pa sta ustanovila mesto Rim, a Romul je ubil Rema, Rimu pa je zavladal kot prvi **kralj**.
 ## 19 (7.0)
+<img src="assets/778abb8e-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Rim se v je 1. tisočletju pr. n. š. pojavil kot naselje, v katerem so prebivali poljedelci in pastirji iz plemena **Latini**. V 8. stoletju pr. n. š. je Rim dobil prvo obzidje. Iz tega časa izhaja legenda o **Romul** in Remu, po kateri naj bi mladi **Romul** leta **753** pr. n. š. ustanovil Rim.
  Mesto se je razvilo na sedmih gričih, kateri se nahajajo v bližini
@@ -182,13 +185,13 @@ Po legendi o Romulu in Remu je bil Rim ustanovljen Odgovor Vprašanje 20 pr. n. 
 
 **753**
 ## 21 (1.0)
-<img src="assets/0fcbde5a-107c-11ef-8f4f-3c7c3fee9c8aunnamed.jpg" alt="drawing" width="400"/>
+<img src="assets/779bf200-1080-11ef-8fa2-3c7c3fee9c8aunnamed.jpg" alt="drawing" width="400"/>
 
 Iz katerega etruščanskega mesta izhaja Kapitolska volkulja, ki je rešila Romula in Rema?
 
 **Veji**
 ## 22 (3.0)
-<img src="assets/0fe64b32-107c-11ef-8f4f-3c7c3fee9c8a1200px-Seven_Hills_of_Rome.svg.png" alt="drawing" width="400"/>
+<img src="assets/77b3c830-1080-11ef-8fa2-3c7c3fee9c8a1200px-Seven_Hills_of_Rome.svg.png" alt="drawing" width="400"/>
 
 Mesto Rim je bilo ustanovljeno ob dveh važnih transportnih poteh: plovna pot po reki Tiberi in pot soli. Mesto se je s Palatina postopoma razširilo na preostalih šest gričev. Označite jih.
 
@@ -210,7 +213,7 @@ Rim je bil sprva mestna država z monarhično obliko ureditve. Po izročilu je v
 
 **Romul**
 ## 24 (1.0)
-<img src="assets/1002cd48-107c-11ef-8f4f-3c7c3fee9c8a260px-Tarquinius-Superbus.jpg" alt="drawing" width="400"/>
+<img src="assets/77d0ed7a-1080-11ef-8fa2-3c7c3fee9c8a260px-Tarquinius-Superbus.jpg" alt="drawing" width="400"/>
 
 Rim je bil sprva mestna država z monarhično obliko ureditve. Po izročilu je v Rimu vladalo sedem kraljev, zadnji trije so bili po poreklu Etruščani. Kdo je zadnji rimski kralj?
 
@@ -269,13 +272,14 @@ Rimska družba se je glede na poreklo in premoženje delila na dva družbena slo
 
 **Ukvarjali so se z obrtjo in trgovino.** → **plebejci**
 ## 3 (6.0)
+<img src="assets/780db278-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Po padcu zadnjega rimskega kralja so Rimljani leta *509* pr. n. š. razglasili republiko. Od tedaj naprej so oblast volili. Najvišji politični organ v državi je bil *senat*, ki je sprva štel *300* mož. Člani *senat* so bili poglavarji plemiških družin in nekdanji uradniki. Senat je sodeloval z magistratom (vlado), ki je štel dva *konzula*, pretorje (2 do 6), cenzorje (različno število), kvestorje (4 do 20) in edile (4). Funkcije v magistratu so bile izbrane za dobo *eno* leta. Na čelu republike sta bila dva *konzula*, katera sta bila izbrana iz
-vrst *patriciji* (šele leta 367 pr. n. š. je bilo dovoljeno izbrati enega
-od *konzula* iz vrst plebejcev). *konzula* sta imela najvišjo vojaško,
+Po padcu zadnjega rimskega kralja so Rimljani leta **509** pr. n. š. razglasili republiko. Od tedaj naprej so oblast volili. Najvišji politični organ v državi je bil **senat**, ki je sprva štel **300** mož. Člani **senat** so bili poglavarji plemiških družin in nekdanji uradniki. Senat je sodeloval z magistratom (vlado), ki je štel dva **konzula**, pretorje (2 do 6), cenzorje (različno število), kvestorje (4 do 20) in edile (4). Funkcije v magistratu so bile izbrane za dobo **eno** leta. Na čelu republike sta bila dva **konzula**, katera sta bila izbrana iz
+vrst **patriciji** (šele leta 367 pr. n. š. je bilo dovoljeno izbrati enega
+od **konzula** iz vrst plebejcev). **konzula** sta imela najvišjo vojaško,
 sodno in finančno oblast ter neomejeno upravno oblast. Sprva sta bila
 tudi vojaška poveljnika z neomejeno oblastjo, kasneje pa ju v času vojne
- zamenja *diktator*. Vrhovni svečenik se je imenoval *pontifex maximus*.
+ zamenja **diktator**. Vrhovni svečenik se je imenoval **pontifex maximus**.
 ## 4 (1.0)
 
 
@@ -283,7 +287,7 @@ Rimska republika je obstajala od 509 pr. n. š. do 27 pr. n. š. Iz katere besed
 
 - **Res Publica**
 ## 5 (1.0)
-<img src="assets/105866f4-107c-11ef-8f4f-3c7c3fee9c8aRoman-Republic-2-222f8f4.jpg" alt="drawing" width="400"/>
+<img src="assets/781c7e34-1080-11ef-8fa2-3c7c3fee9c8aRoman-Republic-2-222f8f4.jpg" alt="drawing" width="400"/>
 
 Najvišji politični organ v rimski republiki je bil Odgovor Vprašanje 5.
 
@@ -301,13 +305,13 @@ Kako imenujemo magistrata oz. državnega uradnika, ki ga je v času hude zunanje
 
 **diktator**
 ## 8 (1.0)
-<img src="assets/10738d76-107c-11ef-8f4f-3c7c3fee9c8aancient-world-roman-empire-people-lictors-with-rod-bundle-fasces-after-BJWBWP.jpg" alt="drawing" width="400"/>
+<img src="assets/78370682-1080-11ef-8fa2-3c7c3fee9c8aancient-world-roman-empire-people-lictors-with-rod-bundle-fasces-after-BJWBWP.jpg" alt="drawing" width="400"/>
 
 Kateri simbol oblasti so nosili liktorji, kadar so spremljali konzula?
 
 **fasces**
 ## 9 (1.0)
-<img src="assets/10918830-107c-11ef-8f4f-3c7c3fee9c8arepublika1.jpg" alt="drawing" width="400"/>
+<img src="assets/7854a322-1080-11ef-8fa2-3c7c3fee9c8arepublika1.jpg" alt="drawing" width="400"/>
 
 Leta 494 pr. n. š., kmalu po vzpostavitvi republike, so se plebejci uprli
 zaradi kopičenja zemlje v rokah patricijev in zaradi večanja števila
@@ -343,10 +347,11 @@ Nasprotja med patriciji in plebejci so se razrešila v 3. stoletju pr. n. š., k
 
 **Plebejci so dobili vstop v senat.** → **5**
 ## 12 (3.0)
+<img src="assets/78725c5a-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Rezultat spora med patriciji in plebejci je nastanek prvih pisanih rimskih zakonov imenovanih **12 bronastih plošč**. Ti zakoni so bili objavljeni na glavnem rimskem trgu - **Forum**. **12 bronastih plošč** so vsebovale zasebno, kazensko, procesno, družinsko in dedno pravo ter so osnova modernim zakonom.
 ## 13 (1.0)
-<img src="assets/10bd5adc-107c-11ef-8f4f-3c7c3fee9c8a6ba68602b1eaf7d4c4ef74f5107191ca.jpg" alt="drawing" width="400"/>
+<img src="assets/7885e5ae-1080-11ef-8fa2-3c7c3fee9c8a6ba68602b1eaf7d4c4ef74f5107191ca.jpg" alt="drawing" width="400"/>
 
 Veliko novih pravic so plebejci dobili s prvimi pisanimi zakoni, ki jih imenujemo Odgovor Vprašanje 13.
 
@@ -366,7 +371,7 @@ V 3. stoletju pr. n. š. so vsi rimski državljani dobili politične pravice. Po
 
 - **Pravica do dedovanja.**
 ## 15 (2.0)
-<img src="assets/10d86728-107c-11ef-8f4f-3c7c3fee9c8aRoman%2Bconquest%2Bof%2Bitaly%2Bmap%2B.jpg" alt="drawing" width="400"/>
+<img src="assets/78a014c4-1080-11ef-8fa2-3c7c3fee9c8aRoman%2Bconquest%2Bof%2Bitaly%2Bmap%2B.jpg" alt="drawing" width="400"/>
 
 Rim je širil oblast po Apeninskem polotoku od 5. do 3. st. pr. n. š. Označite štiri ljudstva, s katerimi so se v tem času vojskovali Rimljani.
 
@@ -384,12 +389,13 @@ Poslovenite vzklik Vae Victis!, ki je bil izrečen ob keltskem požigu Rima.
 
 **Gorje premaganim.**
 ## 17 (1.0)
-<img src="assets/10fc311c-107c-11ef-8f4f-3c7c3fee9c8azpage096.gif" alt="drawing" width="400"/>
+<img src="assets/78c0caac-1080-11ef-8fa2-3c7c3fee9c8azpage096.gif" alt="drawing" width="400"/>
 
 Navedite prizadeto ljudstvo v času t. i. keltske katastrofe.
 
 **Rimljani**
 ## 18 (4.0)
+<img src="assets/78e0acc8-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 V začetku 3. stoletja pr. n. š.  so Rimljani začeli prodirati na jug, kjer
  so naleteli na močne in dobro utrjene **grška** in kartažanske kolonije.
@@ -401,7 +407,7 @@ vendar so bile izgube previsoke, da bi boje nadaljeval. Leta 275 pr. n. š.
  se je kralj **Pir** umaknil iz Italije in Rimska država se je razširila do
 skrajnega juga Apeninskega polotoka.
 ## 19 (1.0)
-<img src="assets/1130f8a2-107c-11ef-8f4f-3c7c3fee9c8aPyrrhus_and_his_Elephants.gif" alt="drawing" width="400"/>
+<img src="assets/78f11478-1080-11ef-8fa2-3c7c3fee9c8aPyrrhus_and_his_Elephants.gif" alt="drawing" width="400"/>
 
 Navedite besedno zvezo, ki pomeni malovredno, nekoristno oz. ničevo zmago ali s prevelikimi žrtvami pridobljen uspeh.
 
@@ -439,32 +445,34 @@ Pravne položaje osvojenih ozemelj povežite s pravilnimi opisi rimske politike�
 
 **Prebivalci so bili brez rimskega državljanstva, a so lahko ohranili avtonomijo.** → **zavezniška mesta**
 ## 23 (5.0)
+<img src="assets/7917654c-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Kartagina je bila kot kolonija **feničanska** mesta Tir ustanovljena okoli leta 800 pr. n. š. Razvila se je v pomembno **pomorska** in trgovsko državo. Skupaj z Etruščani je sredi 6. st. pr. n. š. ustavila **grška** kolonizacijo v zahodnem Sredozemlju. Prav zaradi nadzora nad Sredozemljem se je **Rim** s Kartagino zapletel v tri **punska** vojne. Rimljani so Kartažane imenovali **Punci**, prva **punska** vojna pa je izbruhnila 264 pr. n. š. V prvi **punska** vojni je **Rim** moral zgraditi mornarico, svoj način vojskovanja na morju pa je prilagodil s pomočjo naprave **corvus**.
 ## 24 (1.0)
-<img src="assets/1164d3d4-107c-11ef-8f4f-3c7c3fee9c8akartagina.gif" alt="drawing" width="400"/>
+<img src="assets/792cc07c-1080-11ef-8fa2-3c7c3fee9c8akartagina.gif" alt="drawing" width="400"/>
 
 Po prvi punski vojni je Rim postal najmočnejša sila v zahodnem Sredozemlju. Osvojil je svojo prvo provinco. Katero?
 
 **Sicilija**
 ## 25 (1.0)
-<img src="assets/117c99a6-107c-11ef-8f4f-3c7c3fee9c8aRoman-Provinces-at-the-Height-of-the-Empire-2-nd-Century-AD-Source-Stevenson-200280.png" alt="drawing" width="400"/>
+<img src="assets/7942dd44-1080-11ef-8fa2-3c7c3fee9c8aRoman-Provinces-at-the-Height-of-the-Empire-2-nd-Century-AD-Source-Stevenson-200280.png" alt="drawing" width="400"/>
 
 Kako imenujemo rimsko ozemlje, osvojeno izven Italije?
 
 **provinca**
 ## 26 (4.0)
+<img src="assets/795dc0fa-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Osvajanja Kartažanov v Španiji so bila povod za drugo punsko vojno. Kartažanski vojskovodja *Hanibal* Barka
+Osvajanja Kartažanov v Španiji so bila povod za drugo punsko vojno. Kartažanski vojskovodja **Hanibal** Barka
  se je v prvem letu vojne z mogočno vojsko (50 000 pešakov, 6000
 konjenikov in nekaj deset slonov) odpravil na pohod proti Rimu, medtem
 ko je mesto Kartagino branilo 20 000 vojakov, Španijo pa 15 000 vojakov.
- Na poti čez *Alpe* je imel *Hanibal* velike izgube, zato je svojo vojsko
-okrepil s 14 000 pešaki in 4000 konjeniki, ki jih je najel med *Kelti*. V
- nizu bojev, od katerih je najbolj znana bitka pri *Kanah*, je *Hanibal* premagal Rimljane, vendar mesta Rim ni nikoli napadel. Po sedmih letih
-bojev se je vrnil v Afriko, kjer so ga v bitki pri *Zama* premagali
+ Na poti čez **Alpe** je imel **Hanibal** velike izgube, zato je svojo vojsko
+okrepil s 14 000 pešaki in 4000 konjeniki, ki jih je najel med **Kelti**. V
+ nizu bojev, od katerih je najbolj znana bitka pri **Kanah**, je **Hanibal** premagal Rimljane, vendar mesta Rim ni nikoli napadel. Po sedmih letih
+bojev se je vrnil v Afriko, kjer so ga v bitki pri **Zama** premagali
 Rimljani. Leta 201 pr. n. š. so morali Kartažani zopet podpisati mirovno
-pogodbo, po kateri so morali rimski državi odstopiti Španijo oz. *Hispanija*.
+pogodbo, po kateri so morali rimski državi odstopiti Španijo oz. **Hispanija**.
 ## 27 (1.0)
 
 
@@ -472,30 +480,31 @@ Po porazu pri Kanah so se Rimljani odločili za novo obrambno strategijo, znano 
 
 **požgane zemlje**
 ## 28 (1.0)
-<img src="assets/11ad0514-107c-11ef-8f4f-3c7c3fee9c8adf4lnt-1b6c2ef2-5f03-4d07-a0f0-408ca52ccd2b.jpg" alt="drawing" width="400"/>
+<img src="assets/796ac7aa-1080-11ef-8fa2-3c7c3fee9c8adf4lnt-1b6c2ef2-5f03-4d07-a0f0-408ca52ccd2b.jpg" alt="drawing" width="400"/>
 
 V času druge punske vojne se je tudi uveljavil izraz, ki je ponazarjal prežečo nevarnost, povezan pa je s Hanibalovim pohodom v Italiji. Navedite izrek v latinščini, znan pa je kot Hanibal pred vrati.
 
 **Hanibal ante portas**
 ## 29 (1.0)
-<img src="assets/11c62e04-107c-11ef-8f4f-3c7c3fee9c8akartagina.gif" alt="drawing" width="400"/>
+<img src="assets/798428b2-1080-11ef-8fa2-3c7c3fee9c8akartagina.gif" alt="drawing" width="400"/>
 
 V drugi punski vojni so Rimljani dobili novo provinco Odgovor Vprašanje 29. 
 
 **Hispanijo**
 ## 30 (4.0)
+<img src="assets/799b0320-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Še med punskimi vojnami se je rimska država spopadla z *Makedonija*.
- Po desetletja trajajočih spopadih  so leta 168 pr. n. š. *Makedonci*
+Še med punskimi vojnami se je rimska država spopadla z **Makedonija**.
+ Po desetletja trajajočih spopadih  so leta 168 pr. n. š. **Makedonci**
 izgubili svojo državo. V tem času so Rimljani osvojili tudi Ilirsko
 kraljestvo in nekaj grških državic, obenem pa so  začeli širiti svoj vpliv
-nad Grki. Povod za tretjo punsko vojno (*146* pr. n. št.) je bilo
+nad Grki. Povod za tretjo punsko vojno (**146** pr. n. št.) je bilo
 neupoštevanje mirovne pogodbe, zaradi česar je Rim Kartagini napovedal
 vojno. Nad Kartagino se je odpravilo okoli 150 ladij, na katerih je bilo
  80 000 vojakov. Ta mogočna vojska je Kartagino porušila do tal, zemljo
-pa posula s *sol*, da tod ne bi nič več zraslo. V tem obdobju je Rim pridobil pod svoj vpliv tudi Malo Azijo, Sirijo in Egipt. Ob koncu dobe širjenja je imel rimski imperij devet provinc, od tega *Sicilija*, ki je bila prva provinca, sledili sta ji *Korzika, Sardinija*, v drugi punski vojni so osvojili *Hispanija*, potem Makedonijo, Ilirik, Cisalpsko Galijo, po padcu Kartagine so dobili provinco *Afrika*, zadnja pa je bila provinca Azija. Z osvojitvijo celega Sredozemlja je rimska država postala svetovna država - imperij.
+pa posula s **sol**, da tod ne bi nič več zraslo. V tem obdobju je Rim pridobil pod svoj vpliv tudi Malo Azijo, Sirijo in Egipt. Ob koncu dobe širjenja je imel rimski imperij devet provinc, od tega **Sicilija**, ki je bila prva provinca, sledili sta ji **Korzika, Sardinija**, v drugi punski vojni so osvojili **Hispanija**, potem Makedonijo, Ilirik, Cisalpsko Galijo, po padcu Kartagine so dobili provinco **Afrika**, zadnja pa je bila provinca Azija. Z osvojitvijo celega Sredozemlja je rimska država postala svetovna država - imperij.
 ## 31 (1.0)
-<img src="assets/11ec18da-107c-11ef-8f4f-3c7c3fee9c8aurl.jpg" alt="drawing" width="400"/>
+<img src="assets/79a9149c-1080-11ef-8fa2-3c7c3fee9c8aurl.jpg" alt="drawing" width="400"/>
 
 Imenujte vrhovnega poveljnika rimske vojske, ki se je izkrcal v severni Afriki in po letu dni hudih bojev zasedel Kartagino. Zaradi zmage nad Kartažani je dobil naziv Afričan. 
 
@@ -534,7 +543,7 @@ Leta 146 pr. n. š. so Rimljani popolnoma uničili oz. porušili dve mesti. Kate
 # rimska_vojska.html
 
 ## 1 (1.0)
-<img src="assets/12226520-107c-11ef-8f4f-3c7c3fee9c8a13598.jpg" alt="drawing" width="400"/>
+<img src="assets/79dcd67e-1080-11ef-8fa2-3c7c3fee9c8a13598.jpg" alt="drawing" width="400"/>
 
 Imenujte največjo vojaško formacijo v rimski vojski. Sestavljena je bila iz 6000 vojakov.
 
@@ -544,6 +553,7 @@ Imenujte največjo vojaško formacijo v rimski vojski. Sestavljena je bila iz 60
 
 **Koliko vojakov šteje centurija?** → **100**
 ## 3 (5.0)
+<img src="assets/79fbb8e6-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Na sliki rimskega legionarja pravilno označite njegovo opremo: pilum, čelada, ščit, gladij in oklep.
 ## 4 (2.0)
@@ -559,7 +569,7 @@ Rimska vojska je bila ena najbolj učinkovitih vojska antičnega sveta. Označit
 
 - **konjenica**
 ## 5 (5.0)
-<img src="assets/1255ddce-107c-11ef-8f4f-3c7c3fee9c8aBallista3.png" alt="drawing" width="400"/>
+<img src="assets/7a09a226-1080-11ef-8fa2-3c7c3fee9c8aBallista3.png" alt="drawing" width="400"/>
 
 Rimska vojska je v svoje vrste sprejemala inženirje različnih panog, najraje pa izkušene načrtovalce oblegovalnih naprav. Označite pet oblegovalnih naprav, značilnih za rimsko vojsko.
 
@@ -573,14 +583,15 @@ Rimska vojska je v svoje vrste sprejemala inženirje različnih panog, najraje p
 
 - **katapult**
 ## 6 (1.0)
-<img src="assets/1279266c-107c-11ef-8f4f-3c7c3fee9c8amain-qimg-7698daf834317d22a4ae5c5a9aff8689-lq.jfif" alt="drawing" width="400"/>
+<img src="assets/7a2a1196-1080-11ef-8fa2-3c7c3fee9c8amain-qimg-7698daf834317d22a4ae5c5a9aff8689-lq.jfif" alt="drawing" width="400"/>
 
 Katero rimsko oblegovalno napravo prepoznate na sliki?
 
 **balista**
 ## 7 (3.0)
+<img src="assets/7a3c8f88-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-V času *punske* vojn je Rimljanom uspelo razviti vojskovanje na morju. Rimljani so uporabili nasedlo *kartažansko* ladjo ter na njeni osnovi zgradili svojo mornarico. Posebnost rimske mornarice je, da je na morju uporabila kopenski način vojskovanja, zato je uporabljala posebno napravo imenovano *corvus*.
+V času **punske** vojn je Rimljanom uspelo razviti vojskovanje na morju. Rimljani so uporabili nasedlo **kartažansko** ladjo ter na njeni osnovi zgradili svojo mornarico. Posebnost rimske mornarice je, da je na morju uporabila kopenski način vojskovanja, zato je uporabljala posebno napravo imenovano **corvus**.
 ## 8 (3.0)
 
 
@@ -602,21 +613,23 @@ Rimska vojska se je z reformami Gaja Marija preobrazila v najemniško vojsko. Ka
 
 - **veterani so dobili zemljo**
 ## 10 (1.0)
+<img src="assets/7a4ab9be-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Označite vojaka, ki je pripadnik pretorijanske garde, ter vojaka, ki je legionar.
 ## 11 (2.0)
 Rimska vojska je bila učinkovita, saj je slovela po strogi **[answer]**. Vojake so kaznovali na več načinov, na primer z daljšimi **[answer]** nalogepohodiurjenja. Lahko so jim zmanjšali **[answer]** ure počitkaobrokiure spanja. Zelo kruta kazen, ki je bila izvedena le v izrednih okoliščinah, na primer, da je enota zapustila bojišče, se latinsko imenuje **[answer]**.
 ## 12 (1.0)
-<img src="assets/12b04d04-107c-11ef-8f4f-3c7c3fee9c8adecimatio.jpg" alt="drawing" width="400"/>
+<img src="assets/7a5759b2-1080-11ef-8fa2-3c7c3fee9c8adecimatio.jpg" alt="drawing" width="400"/>
 
 Poslovenite izraz decimiranje, obliko kaznovanja, ki je doletela rimske vojake, če so zapustili bojišče.
 
 **desetkanje**
 ## 13 (5.0)
+<img src="assets/7a75d428-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Rimska vojska ni le osvajala novih ozemelj ali branila meje, temveč je slovela po gradbenih dosežkih. Da so se njene čete hitro premikale po vsem imperiju, je vojska gradila **ceste**. Ob **ceste** so vedno stali kamni oz. **miljniki**, s katerimi so merili dolžine do naslednjih krajev. **ceste** so, poleg vojske, koristili tudi pošta in trgovci. Vojska je tudi gradila **tabori**, ki so bili vedno pravokotne oblike. Imeli so **štiri** vhode, zavarovani so bili z jarkom, palisadami ali **obzidje**. Vojska je tudi skrbela za **limes** oz. utrjeno mejo, zavarovano z obrambnimi stolpi, trdnjavami, **obzidje**, med katerimi je najbolj znan Hadrijanov v Angliji. **limes** je bil utrjen tudi z naravnimi preprekami, na primer z rekami ali gorovji.
 ## 14 (1.0)
-<img src="assets/12df7642-107c-11ef-8f4f-3c7c3fee9c8a9fa8ce4efbe90961dedc8fc00637b942--giulio-cesare-fortification.jpg" alt="drawing" width="400"/>
+<img src="assets/7a86281e-1080-11ef-8fa2-3c7c3fee9c8a9fa8ce4efbe90961dedc8fc00637b942--giulio-cesare-fortification.jpg" alt="drawing" width="400"/>
 
 Kako imenujemo utrjeno mejo v času rimskega imperija?
 
@@ -629,12 +642,13 @@ Kako imenujemo utrjeno mejo v času rimskega imperija?
 # propad_rimske_republike_in_ustanovitev_cesarstva.html
 
 ## 1 (1.0)
+<img src="assets/7abed5e2-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Dolga odsotnost zaradi vojskovanja v tujini ter plačevanje visokih davkov sta poglavitna vzroka, da so *kmetje* začeli opuščati svoja zemljišča in se začeli
-naseljevati v mestih. Tretji razlog, da so se po vojnah *kmetje* začeli
-seliti v mesta, pa je uvoz cenejšega *žito* iz Sicilije in Egipta. *kmetje* v
+Dolga odsotnost zaradi vojskovanja v tujini ter plačevanje visokih davkov sta poglavitna vzroka, da so **kmetje** začeli opuščati svoja zemljišča in se začeli
+naseljevati v mestih. Tretji razlog, da so se po vojnah **kmetje** začeli
+seliti v mesta, pa je uvoz cenejšega **žito** iz Sicilije in Egipta. **kmetje** v
  mestu niso dobili zadovoljive zaposlitve, ampak so postali
-mestni siromaki oz. *proletariat*. Patriciji so s politiko *Panem et circenses* ohranjali mir v mestih in preprečevali vstaje mestnih siromakov. Zemljo, ki so jo opustili *kmetje*, so si prilaščali veleposestniki,  zaradi česar se razvijejo velika posestva ali *latifundija*. Glavna delovna sila na *latifundija* so bili zasužnjeni vojni ujetniki. Zaradi provinc se je pojavila nova vrsta bogatašev - t. i. *vitezi*, ki so v provincah pobirali davke, se ukvarjali s trgovino ali bančništvom.
+mestni siromaki oz. **proletariat**. Patriciji so s politiko **Panem et circenses** ohranjali mir v mestih in preprečevali vstaje mestnih siromakov. Zemljo, ki so jo opustili **kmetje**, so si prilaščali veleposestniki,  zaradi česar se razvijejo velika posestva ali **latifundija**. Glavna delovna sila na **latifundija** so bili zasužnjeni vojni ujetniki. Zaradi provinc se je pojavila nova vrsta bogatašev - t. i. **vitezi**, ki so v provincah pobirali davke, se ukvarjali s trgovino ali bančništvom.
 Sčasoma so pridobili veliko ugleda in moči ter v družbenem in
 gospodarskem pomenu postali tekmeci patricijem.
 ## 2 (1.0)
@@ -682,7 +696,7 @@ Poslovenite izraz Panem et circenses.
 
 **Kruha in iger.**
 ## 8 (1.0)
-<img src="assets/132d6d70-107c-11ef-8f4f-3c7c3fee9c8a960.jpg" alt="drawing" width="400"/>
+<img src="assets/7ad716f2-1080-11ef-8fa2-3c7c3fee9c8a960.jpg" alt="drawing" width="400"/>
 
 V okviru politike Panem et circenses so patriciji in vitezi skrbeli, da se jim ne upre mestni proletariat. Proletariatu so delili vino, oljčno olje in žito, ki je prihajalo iz Sicilije, kasneje pa Egipta. Trem vrstam predstav, s katerimi so bogati sloji zabavali revnejše prebivalce, določite prizorišča, kjer so se izvajale te predstave.
 
@@ -692,8 +706,9 @@ V okviru politike Panem et circenses so patriciji in vitezi skrbeli, da se jim n
 
 **konjske dirke s kočijami** → **hipodrom**
 ## 9 (1.0)
+<img src="assets/7af1d0aa-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Težave kmečkega prebivalstva sta hotela rešiti brata Grakh, ki sta opravljala funkcijo *ljudski tribun*. *Tiberij* Grakh je leta 133 pr. n. š. izdal *zakon*, po katerem noben veleposestnik ne sme imeti več kot 125 hektarjev zemlje zase in 125 hektarjev za dva odrasla sinova. Zemljo, ki je presegala določeno površino, je hotel razdeliti med *kmetje* - vsakemu 7,5 hektarja. Senat in *patriciji* so zavrnili te naprednejše reforme. *Tiberij* Grakh je pri kandidaturi za ponovno izvolitev *ljudski tribun* goljufal, zato so ga v političnih bojih umorili. Propad *kmetje* se je nadaljeval. *Gaj* Grakh je deset let kasneje poizkušal uvesti *zakon*, za katere si je prizadeval njegov brat *Tiberij*. Senat je proti *Gaj* Grakhu razglasil izredno stanje, proletariatu pa je obljubil nižje cene žita, zaradi česar ga je pridobil na svojo stran. *Gaj* Grakh je moral skupaj s privrženci zbežati. Na begu je svojemu sužnju ukazal, da ga ubije.
+Težave kmečkega prebivalstva sta hotela rešiti brata Grakh, ki sta opravljala funkcijo **ljudski tribun**. **Tiberij** Grakh je leta 133 pr. n. š. izdal **zakon**, po katerem noben veleposestnik ne sme imeti več kot 125 hektarjev zemlje zase in 125 hektarjev za dva odrasla sinova. Zemljo, ki je presegala določeno površino, je hotel razdeliti med **kmetje** - vsakemu 7,5 hektarja. Senat in **patriciji** so zavrnili te naprednejše reforme. **Tiberij** Grakh je pri kandidaturi za ponovno izvolitev **ljudski tribun** goljufal, zato so ga v političnih bojih umorili. Propad **kmetje** se je nadaljeval. **Gaj** Grakh je deset let kasneje poizkušal uvesti **zakon**, za katere si je prizadeval njegov brat **Tiberij**. Senat je proti **Gaj** Grakhu razglasil izredno stanje, proletariatu pa je obljubil nižje cene žita, zaradi česar ga je pridobil na svojo stran. **Gaj** Grakh je moral skupaj s privrženci zbežati. Na begu je svojemu sužnju ukazal, da ga ubije.
 ## 10 (1.0)
 
 
@@ -756,7 +771,7 @@ Nasprotja med optimati in populari so privedla do državljanske vojne; ljudski t
 
 - **obdržal je naziv diktator**
 ## 16 (1.0)
-<img src="assets/1357fb12-107c-11ef-8f4f-3c7c3fee9c8asulla-s-proscriptions_1_orig.jpg" alt="drawing" width="400"/>
+<img src="assets/7b000b16-1080-11ef-8fa2-3c7c3fee9c8asulla-s-proscriptions_1_orig.jpg" alt="drawing" width="400"/>
 
 Sula je ob prevzemu oblasti ohranil naziv diktator. Svojih nasprotnikov se je znebil s seznami oseb, obsojenih na smrt. Kako imenujemo te sezname?
 
@@ -787,7 +802,7 @@ Kdo od članov 1. triumvirata je zatrl Spartakov upor? Napišite njegovo popolno
 
 **Mark Licinij Kras**
 ## 20 (1.0)
-<img src="assets/137702be-107c-11ef-8f4f-3c7c3fee9c8a9789610403234.jpg" alt="drawing" width="400"/>
+<img src="assets/7b1d2fc0-1080-11ef-8fa2-3c7c3fee9c8a9789610403234.jpg" alt="drawing" width="400"/>
 
 Zapišite ime znamenitega govornika, ki je zagovarjal oblast senata, in je nasprotoval Katilini,
 ki se je predstavljal kot zagovornik ljudstva. Katilino sta podpirala
@@ -798,22 +813,23 @@ poglobila.
 
 **Mark Tulij Cicero**
 ## 21 (1.0)
+<img src="assets/7b368452-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 V razpredelnico in besedilo o prvem triumviratu vključite manjkajoče podatke. IME TRIUMVIRA PREDNOST, KI MU JE ZAGOTAVLJALA MESTO V TRIUMVIRATU PROVINCA USODA TRIUMVIRA Gnej Pompej **podpora vojske** **Hispanija** poražen v bitki pri Farzalu; umorjen v Egiptu **Gaj Julij Cezar** podpora ljudstva **Galija** **umorjen na marčeve ide 44 pr. n. š.** **Mark Licinij Kras** **denar** Sirija                                    **Mark Licinij Kras** je bil ubit na vojaškem pohodu proti Partom, zato sta se v državljansko vojno zapletla Gnej Pompej in **Gaj Julij Cezar**.
 ## 22 (1.0)
-<img src="assets/13a2f522-107c-11ef-8f4f-3c7c3fee9c8aimage_primary_8930e159-e8bc-4513-abf5-2e58740ad151.jpeg" alt="drawing" width="400"/>
+<img src="assets/7b4628c6-1080-11ef-8fa2-3c7c3fee9c8aimage_primary_8930e159-e8bc-4513-abf5-2e58740ad151.jpeg" alt="drawing" width="400"/>
 
 V obdobju državljanskih vojn, Spartakovega upora in Katilinove zarote so se povezali Kras, Pompej in Cezar. Leta 60 pr. n. š. so ustanovili zvezo treh mož ali Odgovor Vprašanje 22, ki je bil prvi v rimski zgodovini.
 
 **triumvirat**
 ## 23 (1.0)
-<img src="assets/13bd8d92-107c-11ef-8f4f-3c7c3fee9c8aimage_primary_8930e159-e8bc-4513-abf5-2e58740ad151.jpeg" alt="drawing" width="400"/>
+<img src="assets/7b601d4e-1080-11ef-8fa2-3c7c3fee9c8aimage_primary_8930e159-e8bc-4513-abf5-2e58740ad151.jpeg" alt="drawing" width="400"/>
 
 V obdobju državljanskih vojn, Spartakovega upora in Katilinove zarote so se povezali Kras, Pompej in Cezar. Leta 60 pr. n. š. so ustanovili prvi triumvirat ali zvezo Odgovor Vprašanje 23.
 
 **treh mož**
 ## 24 (1.0)
-<img src="assets/13d869be-107c-11ef-8f4f-3c7c3fee9c8arim_prvi_triumvirat.gif" alt="drawing" width="400"/>
+<img src="assets/7b7a9a48-1080-11ef-8fa2-3c7c3fee9c8arim_prvi_triumvirat.gif" alt="drawing" width="400"/>
 
 Leta 60 pr. n. š. se je zbližala trojica zelo uglednih mož: Gnej Pompej, Mark Licinij Kras in Gaj Julij Cezar
  so skupaj sklenili neuradno zvezo, poimenovano prvi triumvirat. Gnej
@@ -828,6 +844,7 @@ pomagal si je s podkupovanjem. Med triumviri je prišlo do nesoglasij, zato so s
 
 **Gnej Pompej** → **Hispanija**
 ## 25 (1.0)
+<img src="assets/7b9acd0e-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 
  
@@ -835,12 +852,12 @@ pomagal si je s podkupovanjem. Med triumviri je prišlo do nesoglasij, zato so s
   Takoj po prihodu na oblast je Julij Cezar prizanesel svojim nasprotnikom in jih
   pustil pri življenju, kar do tedaj ni bila navada. Uvidel je, da je država
   slabo povezana, zato je začel urejevati razmere v provincah. Najprej je zatrl
-  upor v Mali Aziji, severni Afriki in *Hispanija*. Iz političnih razlogov
-  se je tesno povezal s *Kleopatra VII.*, egiptovsko kraljico, ki je
-  bila zadnja predstavnica dinastije *Ptolemajci*. Po ureditvi provinc in obmejnih območij se je lotil še
-  prenove državne ureditve. Število senatorjev je zvečal na *900*, pri
+  upor v Mali Aziji, severni Afriki in **Hispanija**. Iz političnih razlogov
+  se je tesno povezal s **Kleopatra VII.**, egiptovsko kraljico, ki je
+  bila zadnja predstavnica dinastije **Ptolemajci**. Po ureditvi provinc in obmejnih območij se je lotil še
+  prenove državne ureditve. Število senatorjev je zvečal na **900**, pri
   čemer so bili prisotni tudi senatorji iz provinc, kar dotlej ni bilo v
-  veljavi. Senat ga je razglasil za dosmrtnega *diktator*. Kot *konzul* mu je bila zaupana politična oblast, bil pa je tudi vrhovni svečenik. Zaradi pooblastil,
+  veljavi. Senat ga je razglasil za dosmrtnega **diktator**. Kot **konzul** mu je bila zaupana politična oblast, bil pa je tudi vrhovni svečenik. Zaradi pooblastil,
   ki jih je dobil, je nastopila oblika vladavine, ki je zelo podobna monarhiji.
   Da bi odvrnil sume nasprotnikov, da poskuša uvesti monarhijo, se je odrekel kroni, ki mu jo je ponudil Mark
   Antonij.
@@ -850,12 +867,14 @@ pomagal si je s podkupovanjem. Med triumviri je prišlo do nesoglasij, zato so s
   
    Ko je utrdil svoj položaj je začel z vrsto reform, s
   katerimi je poizkušal urediti krizne razmere v državi:
-  - da bi odpravil lakoto siromakov, je začel deliti poceni *žito*
-  - za brezposelne je uvedel *javna dela*.
+  - da bi odpravil lakoto siromakov, je začel deliti poceni **žito**
+  - za brezposelne je uvedel **javna dela**.
 ## 26 (1.0)
+<img src="assets/7baa4e46-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Julij Cezar je po Pompejevi smrti zatrl opozicijo, na poti domov  iz Egipta pa je zatrl pirate, po čemer se je ohranil njegov izrek **Veni, vidi, vici.**. Leta 45 pr. n. š. se je vrnil v Rim kot vladar celotnega **Sredozemlje** ter je bil na vrhuncu slave in moči. Imenovan je bil za **diktator** za nedoločen čas, za **konzul** za dobo deset let, kot cenzor je lahko spremenil sestavo **senat**, obdržal je naziv vrhovnega poveljnika vojske ter postal pontifex maximus oz. **vrhovni svečenik**. V njegovo čast so postavljali kipe in druge spomenike ter mu podelili častni naziv pater patriae oz. **oče domovine**.
 ## 27 (1.0)
+<img src="assets/7bbc03e8-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 **Gaj** Julij Cezar je po mnenju številnih najbolj slavna osebnost antičnega Rima. O njem je znamenito dramsko delo napisal **William Shakespeare**. Bil je potomec stare plemiške družine. Njegova priljubljenost med rimskim ljudstvom je rezultat podpore **populari**, katerih interese je zastopal v času Sulove diktature in v 1. triumviratu. Po izteku konzulata mu je senat zaupal številne naloge. Kot rimski namestnik je odšel v **Galija**, kjer se je uspešno bojeval proti Keltom. Kljub odporu vojske je prekoračil reko **Rubikon** in se vrnil v Rim. Situacijo v Rimu je obvladal brez odpora, medtem pa se je Pompej umakni v **Grčija**. Premagal je Pompeja in se znašel v Egiptu, kjer je pomagal na prestol princesi **Kleopatra**. Kljub očitni naklonjenosti do nje ga je politika l. 45. pr. n. š. znova pripeljala v Rim. Izvedel je vrsto pomembnih reform. Med najbolj znanimi je reforma koledarja, pri kateri so vzeli za osnovo sončevo leto po vzoru starih **Egipčani**. Obnovil je porušeno Kartagino in na tamkajšnjem območju naselil **veterani**. S svojim ugledom in priljubljenostjo je med aristokrati zbujal odpor. Zarotniki so ga umorili v senatu, zaroto pa sta vodila Brut in **Kasij**. Cezarjeva smrt je bila maščevana v bitki **pri Filipih**, kjer sta Antonij in Oktavijan premagala vojsko zarotnikov.
 ## 28 (1.0)
@@ -965,10 +984,11 @@ zarotnikom ter njihovim pristašem.Imenujte kraj, kjer so triumviri porazili zar
 
 **Filipi**
 ## 3 (8.0)
+<img src="assets/7bfa436a-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Po Cezarjevi smrti je njegovo oporoko prebral **Mark Antonij**, ki je postal voditelj politične stranke **populari**. V oporoki je Cezar vsakemu Rimljanu zapustil nekaj denarja, večino njegovega premoženja pa je dedoval **Gaj Oktavijan**, bodoči Avgust. Njima se je pridružil **Mark Lepid**, poveljnik rimske konjenice, in leta 43 pr. n. š. so ustanovili drugi **triumvirat**. Skupaj so pripravili vojaški pohod proti Cezarjevim zarotnikom ter so jih porazili v bitki pri **Filipi** v Grčiji. Triumviri so prevzeli nadzor nad imperijem. **Mark Antonij** je nadziral vzhodno Sredozemlje (vzhodne province), **Gaj Oktavijan** je nadziral zahodne province in Italijo, **Mark Lepid** pa Afriko. Prvi, ki je zapustil triumvirat, je bil **Mark Lepid**, in je prevzel funkcijo vrhovnega svečenika. Povod za državljansko vojno je bila oporoka **Mark Antonij**, ki je otrokom, ki jih je imel s Kleopatro, zapustil vzhodne province. **Gaj Oktavijan** je prepričal senat, da je Rim napovedal vojno Egiptu. **Gaj Oktavijan** je porazil Kleopatro in **Mark Antonij** v pomorski bitki pri **Akcij**. Egipt je leta **30 pr. n. š. ** postal rimska provinca.
 ## 4 (3.0)
-<img src="assets/146197f2-107c-11ef-8f4f-3c7c3fee9c8arim_drugi_triumvirat.gif" alt="drawing" width="400"/>
+<img src="assets/7c0617e4-1080-11ef-8fa2-3c7c3fee9c8arim_drugi_triumvirat.gif" alt="drawing" width="400"/>
 
 Po zmagi nad Cezarjevimi morilci so si triumviri razdelili upravljanje države. Vsakemu članu 2. triumvirata določite pravilne province oz. področja, ki jih je nadzoroval.
 
@@ -989,6 +1009,7 @@ vstajo pripravljal nasprotnik Cezarjevih naslednikov, Sekst Pompej. Oktavijan j
 
 **pontifex maximus**
 ## 6 (9.0)
+<img src="assets/7c1ab636-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 **Mark Antonij** se je poročil z egiptovsko kraljico Kleopatro, njunim potomcem pa je obljubil rimske **vzhodne** province. Zaradi te oporoke je senat leta 32 pr. n. š. sklenil, da napove vojno Kleopatri in **Mark Antonij**, kar je privedlo do t. i. vojne vzhoda in zahoda. Rimsko vojsko je vodil **Gaj Oktavijan**. Po težkih bojih na kopnem v Grčiji, je prišlo do končnega spopada v pomorski bitki pri **Akcij** na zahodni obali Grčije. V eni dotlej največjih pomorskih bitk se je na strani **Gaj Oktavijan** bojevalo 170 velikih in 200 manjših ladij, na strani **Mark Antonij** in Kleopatre pa okoli 260 ladij različnih velikosti. V bitki je **Gaj Oktavijan** dosegel bleščečo zmago, **Mark Antonij** in Kleopatra pa sta pobegnila.
 ## 7 (1.0)
@@ -998,15 +1019,16 @@ Kakšen status je imel Egipt od leta 30 pr. n. š.?
 
 - **status province**
 ## 8 (6.0)
+<img src="assets/7c292b9e-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-S prihodom na oblast se je Gaj Oktavijan tesno povezal s *senat* in mu
+S prihodom na oblast se je Gaj Oktavijan tesno povezal s **senat** in mu
 pustil veliko pristojnosti, saj se je bal, da bi ga  doletela enaka
-usoda kot Julija Cezarja. Aristokracijo in *senat* je pritegnil k vodenju države. Izvoliti je dal *600* senatorjev, *senat* pa je vrnil nekdanja
-pooblastila, s čimer je formalno obnovil *republika*. *senat* mu je podelil
-naslov *princeps* - prvi državljan (prvi v državi, prvi v *senat*). S tem je nastala nova oblika vladavine - *principat*. Dobil je tudi vzdevek Avgust - *Vzvišeni*,
+usoda kot Julija Cezarja. Aristokracijo in **senat** je pritegnil k vodenju države. Izvoliti je dal **600** senatorjev, **senat** pa je vrnil nekdanja
+pooblastila, s čimer je formalno obnovil **republika**. **senat** mu je podelil
+naslov **princeps** - prvi državljan (prvi v državi, prvi v **senat**). S tem je nastala nova oblika vladavine - **principat**. Dobil je tudi vzdevek Avgust - **Vzvišeni**,
  s katerim so dotlej nazivali le bogove. Zaradi zaupanja sta mu senat in
  ljudska skupščina, ki je izgubljala pomen, postopoma predali vso
-oblast. Postal je ljudski tribun, vrhovni svečenik oz. *pontifex maximus*, oče domovine in vrhovni poveljnik vojske oz. *imperator*.
+oblast. Postal je ljudski tribun, vrhovni svečenik oz. **pontifex maximus**, oče domovine in vrhovni poveljnik vojske oz. **imperator**.
 ## 9 (1.0)
 
 
@@ -1061,6 +1083,7 @@ Koliko senatorjev je bilo v času vladavine Gaja Oktavijana Avgusta? Napišite �
 
 **600**
 ## 13 (7.0)
+<img src="assets/7c37c60e-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Gaj Oktavijan je izvedel več reform. Province je razdelil na senatske in na cesarske:
 stabilne in mirne province je upravljal **senat**, medtem ko je za
@@ -1109,7 +1132,7 @@ V času vladavine Gaja Oktavijana je v rimski državi nastopilo obdobje miru, sa
 
 - **literatura**
 ## 17 (1.0)
-<img src="assets/14ac1fd4-107c-11ef-8f4f-3c7c3fee9c8aara-pacis.jpg" alt="drawing" width="400"/>
+<img src="assets/7c487422-1080-11ef-8fa2-3c7c3fee9c8aara-pacis.jpg" alt="drawing" width="400"/>
 
 Katera umetnina ponazarja obdobje pax Romana? Je kiparsko delo, ki slovi po reliefni upodobitvi Oktavijana in njegove družine.
 
@@ -1195,7 +1218,7 @@ Pod katerim rimskim vladarjem je imela rimska država največji obseg?
 
 **Trajan**
 ## 26 (1.0)
-<img src="assets/14cf9ef0-107c-11ef-8f4f-3c7c3fee9c8ahadrian1.jpg" alt="drawing" width="400"/>
+<img src="assets/7c69d428-1080-11ef-8fa2-3c7c3fee9c8ahadrian1.jpg" alt="drawing" width="400"/>
 
 Katerega cesarja iz vrst adoptivnih cesarjev prepoznate?Zavzemal se je za mirno zunanjo politiko in dal utrditi meje cesarstva
 (najbolj znan je zid v Britaniji). Izdelati je
@@ -1234,19 +1257,19 @@ Povežite cesarja z dogodki v času njegovega vladanja.
 
 **Hadrijan** → **meja na Evfratu**
 ## 30 (1.0)
-<img src="assets/14f56f5e-107c-11ef-8f4f-3c7c3fee9c8ahadrian1.jpg" alt="drawing" width="400"/>
+<img src="assets/7c8f857e-1080-11ef-8fa2-3c7c3fee9c8ahadrian1.jpg" alt="drawing" width="400"/>
 
 Cesarja Trajan in Hadrijan sta vodila različno zunanjo politiko, a skupno jima je bilo, da sta veliko gradila. Znane zgradbe so Trajanov steber, Hadrijanov mavzolej, Hadrijanov zid, Tivoli in Panteon. Katera od teh gradenj je na sliki?
 
 **Panteon**
 ## 31 (1.0)
-<img src="assets/15121b40-107c-11ef-8f4f-3c7c3fee9c8ae6f0ab030b5c904d64509fcac847c602.jpg" alt="drawing" width="400"/>
+<img src="assets/7caa8ebe-1080-11ef-8fa2-3c7c3fee9c8ae6f0ab030b5c904d64509fcac847c602.jpg" alt="drawing" width="400"/>
 
 Cesarja Trajan in Hadrijan sta vodila različno zunanjo politiko, a skupno jima je bilo, da sta veliko gradila. Znane zgradbe so Trajanov steber, Hadrijanov mavzolej, Hadrijanov zid, Tivoli in Panteon. Katera od teh gradenj je na sliki?
 
 **Trajanov steber**
 ## 32 (1.0)
-<img src="assets/152ef44a-107c-11ef-8f4f-3c7c3fee9c8acastello.jpg" alt="drawing" width="400"/>
+<img src="assets/7cc5f078-1080-11ef-8fa2-3c7c3fee9c8acastello.jpg" alt="drawing" width="400"/>
 
 Cesarja Trajan in Hadrijan sta vodila različno zunanjo politiko, a skupno jima je bilo, da sta veliko gradila. Znane zgradbe so Trajanov steber, Hadrijanov mavzolej, Hadrijanov zid, Tivoli in Panteon. Katera od teh gradenj je na sliki?
 
@@ -1284,8 +1307,9 @@ Vojska se je zavedala svoje moči, zato je sama začela izbirati cesarje - zače
 
 - **duhovna kriza**
 ## 35 (4.0)
+<img src="assets/7ce9d4d4-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Rimljani so napade barbarov ustavljali z veliko žrtvami, kar se je odražalo na zmanjšani moči vojske. Zaradi tega so bili prisiljeni novačiti vojake iz vrst že naseljenih barbarov ter jim dodelili status *federati*. Praviloma so bili *federati* naseljeni na obmejnih področjih, njihova naloga pa je bila obramba meje. Težava vključevanja barbarskih plemen v rimsko vojsko je bila, da je vojska postala narodnostno precej heterogena, kar je privedlo do njene neenotnosti v vojskovanju in političnih odločitvah. Oborožitev rimske vojske v tem času ni veljala za sodobno: rimske *legija* so bile prešibke in prepočasne, da bi se lahko uspešno spopadle z masovnimi enotami lahke konjenice ali z oklepno konjenico, ki so jo razvili Parti. Kot posledica vojaške krize se je pojavila politična kriza: vladajoč sloj s cesarjem in *senat* na čelu ni zmogel reševati težav z zunanjimi nasprotniki, pojavljati pa so se začela tudi notranja nasprotja. Neurejene politične razmere so med uradništvo prinesle korupcijo. Uradniki so po svoji volji spreminjali višino davkov, ogrožena pa je bila tudi pravna varnost državljanov. V vojnem času je *inflacija* oz. padanje vrednosti denarja najbolj občutil nižji sloj. Ker revni državljani niso imeli denarja, se je razvilo *naturalno* gospodarstvo. Številni spopadi znotraj in zunaj države so povzročili upad kupne moči prebivalstva. Posledica tega je bila, da so začeli propadati obrtniki in *trgovci*. Število *prebivalci* se je zaradi vojnih žrtev, številnih bolezni in lakote drastično znižalo.
+Rimljani so napade barbarov ustavljali z veliko žrtvami, kar se je odražalo na zmanjšani moči vojske. Zaradi tega so bili prisiljeni novačiti vojake iz vrst že naseljenih barbarov ter jim dodelili status **federati**. Praviloma so bili **federati** naseljeni na obmejnih področjih, njihova naloga pa je bila obramba meje. Težava vključevanja barbarskih plemen v rimsko vojsko je bila, da je vojska postala narodnostno precej heterogena, kar je privedlo do njene neenotnosti v vojskovanju in političnih odločitvah. Oborožitev rimske vojske v tem času ni veljala za sodobno: rimske **legija** so bile prešibke in prepočasne, da bi se lahko uspešno spopadle z masovnimi enotami lahke konjenice ali z oklepno konjenico, ki so jo razvili Parti. Kot posledica vojaške krize se je pojavila politična kriza: vladajoč sloj s cesarjem in **senat** na čelu ni zmogel reševati težav z zunanjimi nasprotniki, pojavljati pa so se začela tudi notranja nasprotja. Neurejene politične razmere so med uradništvo prinesle korupcijo. Uradniki so po svoji volji spreminjali višino davkov, ogrožena pa je bila tudi pravna varnost državljanov. V vojnem času je **inflacija** oz. padanje vrednosti denarja najbolj občutil nižji sloj. Ker revni državljani niso imeli denarja, se je razvilo **naturalno** gospodarstvo. Številni spopadi znotraj in zunaj države so povzročili upad kupne moči prebivalstva. Posledica tega je bila, da so začeli propadati obrtniki in **trgovci**. Število **prebivalci** se je zaradi vojnih žrtev, številnih bolezni in lakote drastično znižalo.
 ## 36 (1.0)
 
 
@@ -1293,6 +1317,7 @@ Kateri cesar je s svojimi reformami ustavil propadanje cesarstva? Vladal je na k
 
 - **Dioklecijan**
 ## 37 (6.0)
+<img src="assets/7cfee3ec-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Propadanje rimskega imperija je poskušal ustaviti cesar **Dioklecijan**, ki je prišel na oblast s pomočjo vojske leta 284. Izvedel je številne reforme in z njimi za dobrih sto petdeset let podaljšal obstoj imperija. Ker se je zavedal, da je imperij preobsežen, je uvedel **tetrarhija**.**tetrarhija** pomeni vladavina dveh **Avgust** in dveh cezarjev oz. vladavina štirih. IME TETRARHAVLADARSKI NAZIVOBMOČJEPRESTOLNICA **Dioklecijan****Avgust**  **vzhod**NikomedijaMaksimiljan **Avgust** zahod **Milan** **Galerij**cezar **Ilirik**Sirmium/Sremska MitrovicaKonstancij cezar Galija **Trier**
 ## 38 (1.0)
@@ -1315,13 +1340,13 @@ Poslovenite izraz dominus et deus - izraz, ki je povezan z obliko vladavine domi
 
 **gospod in bog**
 ## 41 (1.0)
-<img src="assets/156eb634-107c-11ef-8f4f-3c7c3fee9c8aRoman_Empire_with_dioceses_in_300_AD.png" alt="drawing" width="400"/>
+<img src="assets/7d15a85c-1080-11ef-8fa2-3c7c3fee9c8aRoman_Empire_with_dioceses_in_300_AD.png" alt="drawing" width="400"/>
 
 Ker dotedanja uprava ni bila več funkcionalna, je Dioklecijan državo razdelil v 4 prefekture in več diecez. S to delitvijo Rim ni več bil upravno središče države. Funkcijo upravnih središč so prevzela štiri mesta, vsako iz ene prefekture. Na koliko diecez je bila razdeljena država?
 
 **12**
 ## 42 (1.0)
-<img src="assets/15871ecc-107c-11ef-8f4f-3c7c3fee9c8aTetrarchy_map3.jpg" alt="drawing" width="400"/>
+<img src="assets/7d2d1456-1080-11ef-8fa2-3c7c3fee9c8aTetrarchy_map3.jpg" alt="drawing" width="400"/>
 
 Ker dotedanja uprava ni bila več funkcionalna, je Dioklecijan državo razdelil v 4 prefekture in več diecez. S to delitvijo Rim ni več bil upravno središče države. Funkcijo upravnih središč so prevzela štiri mesta, vsako iz ene prefekture. Označite ta mesta.
 
@@ -1363,6 +1388,7 @@ Kateri poklicni skupini je Dioklecijan določil dednost poklicev?
 
 - **obrtnikom**
 ## 46 (3.0)
+<img src="assets/7d48efd2-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 Leta 312 se je cesar **Konstantin** spopadel z Maksencijem, pretendentom za naziv rimskega cesarja. Po legendi se je pred bitko cesar **Konstantin** obrnil na Boga, ki mu je v sanjah sporočil, da naj se bojuje pod znamenjem križa. Naslednji dan je zmagal v bitki pri **Milvijski** mostu in zasluge za uspeh pripisal krščanstvu. Leta **313** je v znamenje hvaležnosti s sovladarjem **Licinij** izdal **milanski** edikt, ki je kristjanom zagotavljal versko svobodo.
 ## 47 (1.0)
@@ -1396,7 +1422,7 @@ Kako se je imenovala grška kolonija,kjer je cesar Konstantin zgradil novo prest
 
 **Bizanc**
 ## 51 (1.0)
-<img src="assets/15b18dba-107c-11ef-8f4f-3c7c3fee9c8aroma_colosseo_04_arco_di_costantino_jpg_1200_630_cover_85.jpg" alt="drawing" width="400"/>
+<img src="assets/7d564240-1080-11ef-8fa2-3c7c3fee9c8aroma_colosseo_04_arco_di_costantino_jpg_1200_630_cover_85.jpg" alt="drawing" width="400"/>
 
 Katera kulturnozgodovinska spomenika še danes spominjata na cesarja Dioklecijana in Konstantina? Ostanki enega so v Splitu, drugega pa v Rimu.
 
@@ -1404,7 +1430,7 @@ Katera kulturnozgodovinska spomenika še danes spominjata na cesarja Dioklecijan
 
 - **palača**
 ## 52 (1.0)
-<img src="assets/15d693ee-107c-11ef-8f4f-3c7c3fee9c8aemperor-theodosius-i-DP9XMF.jpg" alt="drawing" width="400"/>
+<img src="assets/7d7bf74c-1080-11ef-8fa2-3c7c3fee9c8aemperor-theodosius-i-DP9XMF.jpg" alt="drawing" width="400"/>
 
 Kateri rimski cesar prizna krščanstvo za edino
 dovoljeno vero v rimski državi? 
@@ -1434,15 +1460,16 @@ Katerega leta je Teodozij razdelil rimski imperij na dva dela?
 
 **395**
 ## 56 (1.0)
-<img src="assets/15f5f626-107c-11ef-8f4f-3c7c3fee9c8aDivision-of-Roman-Empire-Map-395AD.jpg" alt="drawing" width="400"/>
+<img src="assets/7d9b81de-1080-11ef-8fa2-3c7c3fee9c8aDivision-of-Roman-Empire-Map-395AD.jpg" alt="drawing" width="400"/>
 
 Ali trditev drži.Meja med vzhodnim in zahodnim delom rimskega imperija je potekala po črti: Sremska Mitrovica
 (Sirmium), Beograd, Boka Kotorska, in zaliv Sirta.
 
 **Drži**
 ## 57 (5.0)
+<img src="assets/7dc06990-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-Rešite tabelo o Vzhodnorimskem cesarstvu in Zahodnorimskem cesarstvu.ZAHODNI DELVZHODNI DELRomanski del *Bizantinski del*  *Latinski jezik* Grški jezikLeto 476  Leto *1453* *Rim*, Ravena KonstantinopelGermanski poveljnik Odoaker je odstavil Romula Avgustula. Turki (Osmani) so osvojili Konstantinopel. *naturalno gospodarstvo* Gospodarsko razvitejši
+Rešite tabelo o Vzhodnorimskem cesarstvu in Zahodnorimskem cesarstvu.ZAHODNI DELVZHODNI DELRomanski del **Bizantinski del**  **Latinski jezik** Grški jezikLeto 476  Leto **1453** **Rim**, Ravena KonstantinopelGermanski poveljnik Odoaker je odstavil Romula Avgustula. Turki (Osmani) so osvojili Konstantinopel. **naturalno gospodarstvo** Gospodarsko razvitejši
 ## 58 (1.0)
 
 
@@ -1456,6 +1483,7 @@ Kakšen naziv si je podelil Odoaker?
 
 - **kralj Italije**
 ## 60 (3.0)
+<img src="assets/7dce88fe-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
 **kolonat** je sistem zakupništva, pri katerem so latifundisti razdelili zemljo **koloni**, ki so morali dajati lastnikom določeno količino **pridelki**. **kolonat** se je pojavil zaradi pomanjkanja sužnjev. **koloni** so lahko bili veterani, propadli mali obrtniki in kmetje, osvobojeni sužnji, za zakup zemlje pa so plačevali s tretjino **pridelki**.
 ## 61 (1.0)
@@ -1466,3 +1494,5 @@ latifundisti razdelili zemljo kolonom, ki so morali dajati lastnikom določeno
 količino pridelkov. Kolonat se je pojavil zaradi pomanjkanja sužnjev. Koloni so lahko bili veterani, propadli mali obrtniki in kmetje, osvobojeni sužnji, za zakup zemlje pa so plačevali s tretjino pridelkov.
 
 **Drži**
+set()
+
