@@ -908,13 +908,9 @@ Julij Cezar je izvedel več reform, s katerimi je reševal krizo v državi ter u
 
 Zakaj je Julij Cezar izvedel reformo koledarja? 3 možni odgovori.
 
-- **da bi odpravil napake**
+- **da bi odpravil napake, ki so nastale v računanju časa**
 
-- **ki so nastale v
-računanju časa**
-
-- ** ker dnevi daritev in praznikov niso bili več
-usklajeni z letnimi časi**
+- **ker dnevi daritev in praznikov niso bili več usklajeni z letnimi časi**
 
 - **zaradi zmede v odnosih luninega leta do sončnega leta**
 ## 31 (1.0)
