@@ -813,11 +813,11 @@ poglobila.
 
 V razpredelnico in besedilo o prvem triumviratu vključite manjkajoče podatke. 
 
-|IME TRIUMVIRA          |PREDNOST, KI MU JE ZAGOTAVLJALA MESTO V TRIUMVIRATU    |PROVINCA       |USODA TRIUMVIRA    | 
-|:----------------------|:------------------------------------------------------|:--------------|:------------------|
-|Gnej Pompej            |**podpora vojske**                                     |**Hispanija**  | poražen v bitki pri Farzalu; umorjen v Egiptu|
-|**Gaj Julij Cezar**    |podpora ljudstva|                                      |**Galija**     |**umorjen na marčeve ide 44 pr. n. š.**|
-|**Mark Licinij Kras**  |**denar**|                                             |Sirija.        | |
+| IME TRIUMVIRA         | PREDNOST, KI MU JE ZAGOTAVLJALA MESTO V TRIUMVIRATU | PROVINCA      | USODA TRIUMVIRA                               |
+|-----------------------|-----------------------------------------------------|---------------|-----------------------------------------------|
+| Gnej Pompej           | **podpora vojske**                                  | **Hispanija** | poražen v bitki pri Farzalu; umorjen v Egiptu |
+| **Gaj Julij Cezar**   | podpora ljudstva                                    | **Galija**    | **umorjen na marčeve ide 44 pr. n. š.**       |
+| **Mark Licinij Kras** | **denar**                                           | Sirija        |                                               |
 
 **Mark Licinij Kras** je bil ubit na vojaškem pohodu proti Partom, zato sta se v državljansko vojno zapletla Gnej Pompej in **Gaj Julij Cezar**.
 
