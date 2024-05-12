@@ -926,17 +926,11 @@ Gaj Julij Cezar je bil umorjen na marčeve ide 44 pr. n. š. Označite štiri p
 
 - **Julij Cezar je bil umorjen 15. marca 44 pr. n. š.**
 
-- **Senatorji so umorili Julija Cezarja**
-
-- **ker so verjeli**
-
-- **da rešujejo republiko.**
+- **Senatorji so umorili Julija Cezarja, ker so verjeli, da rešujejo republiko.**
 
 - **Zarotnike sta vodila Brut in Kasij.**
 
-- **Julij Cezar je bil umorjen**
-
-- **ker se je nagibal k tiraniji.**
+- **Julij Cezar je bil umorjen, ker se je nagibal k tiraniji.**
 
 
 ---
