@@ -811,7 +811,7 @@ poglobila.
 ## 21 (1.0)
 <img src="assets/7b368452-1080-11ef-8fa2-3c7c3fee9c8aunflagged" alt="drawing" width="400"/>
 
-V razpredelnico in besedilo o prvem triumviratu vključite manjkajoče podatke. IME TRIUMVIRA PREDNOST, KI MU JE ZAGOTAVLJALA MESTO V TRIUMVIRATU PROVINCA USODA TRIUMVIRA Gnej Pompej **podpora vojske** **Hispanija** poražen v bitki pri Farzalu; umorjen v Egiptu **Gaj Julij Cezar** podpora ljudstva **Galija** **umorjen na marčeve ide 44 pr. n. š.** **Mark Licinij Kras** **denar** Sirija                                    **Mark Licinij Kras** je bil ubit na vojaškem pohodu proti Partom, zato sta se v državljansko vojno zapletla Gnej Pompej in **Gaj Julij Cezar**.
+V razpredelnico in besedilo o prvem triumviratu vključite manjkajoče podatke. IME TRIUMVIRA PREDNOST, KI MU JE ZAGOTAVLJALA MESTO V TRIUMVIRATU PROVINCA USODA TRIUMVIRA Gnej Pompej **podpora vojske** **Hispanija** poražen v bitki pri Farzalu; umorjen v Egiptu **Gaj Julij Cezar** podpora ljudstva **Galija** **umorjen na marčeve ide 44 pr. n. š.** **Mark Licinij Kras** **denar** Sirija. **Mark Licinij Kras** je bil ubit na vojaškem pohodu proti Partom, zato sta se v državljansko vojno zapletla Gnej Pompej in **Gaj Julij Cezar**.
 ## 22 (1.0)
 <img src="assets/7b4628c6-1080-11ef-8fa2-3c7c3fee9c8aimage_primary_8930e159-e8bc-4513-abf5-2e58740ad151.jpeg" alt="drawing" width="400"/>
 
@@ -878,11 +878,11 @@ Julij Cezar je po Pompejevi smrti zatrl opozicijo, na poti domov  iz Egipta pa 
 
 Po Juliju Cezarju se je ohranilo kar nekaj izrekov. Poslovenjenim izrekom določite latinski izrek.
 
-**Prišel, videl, zmagal!** → **Veni**
+**Prišel, videl, zmagal!** → **Veni, vidi, vici!**
 
-**vidi, vici!, Tudi ti, Brut, moj sin?** → **Et tu**
+**Tudi ti, Brut, moj sin?** → **Et tu Brute, mi fili?**
 
-**Brute, mi fili?, Kocka je padla.** → **Alea iacta est.**
+**Kocka je padla.** → **Alea iacta est.**
 ## 29 (1.0)
 
 
