@@ -363,9 +363,7 @@ V 3. stoletju pr. n. š. so vsi rimski državljani dobili politične pravice. Po
 
 - **Pravica do vojaške službe v rimski legiji.**
 
-- **Pravica do pravne zaščite**
-
-- **ki jo zagotavljajo rimski zakoni.**
+- **Pravica do pravne zaščite, ki jo zagotavljajo rimski zakoni.**
 
 - **Pravica do dedovanja.**
 ## 15 (2.0)
