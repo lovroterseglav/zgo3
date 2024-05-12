@@ -329,9 +329,7 @@ Plebejci so patricijem grozili z izselitvijo iz Rima. V primeru izselitve bi rim
 
 - **Ljudska tribuna sta lahko ugovarjala sklepom senata in konzulov.**
 
-- **Moč ljudskih tribunov je bila uveljavljena le**
-
-- **če sta oba uporabila pravico veta.**
+- **Moč ljudskih tribunov je bila uveljavljena le, če sta oba uporabila pravico veta.**
 ## 11 (5.0)
 
 
